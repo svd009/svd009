@@ -2,12 +2,12 @@
 
 <p align="center">
   <b>AI & Machine Learning Engineer | Edge Computing | MLOps | Cloud AI | Robotics | Rutgers ECE</b><br/>
-  <i>Building scalable, impact-driven ML systems · Cloud-native · Open to opportunities</i>
+  <i>Building scalable, impact-driven ML systems · AWS certified MLE associate · Open to opportunities</i>
 </p>
 
 <p align="center">
-  <a href="https://suujaydhhoka.com">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/suujay-dhhoka">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://suujay-dhhoka-m74oimb.gamma.site/">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="(https://www.linkedin.com/in/suujay-dhhoka-332018196/)">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:suujaydhhoka@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   📍 New Brunswick, NJ
 </p>

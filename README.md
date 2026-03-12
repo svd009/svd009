@@ -1,9 +1,7 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm Suujay Dhhoka 👋</h1>
+<h1 align="center">Hi there, I'm Suujay Dhhoka 👋</h1>
 
 <p align="center">
-  <b>M.S. ECE · AI & Machine Learning · Rutgers University</b><br/>
+  <b>AI & Machine Learning Engineer | Edge Computing | MLOps | Cloud AI | Robotics | Rutgers ECE</b><br/>
   <i>Building scalable, impact-driven ML systems · Cloud-native · Open to opportunities</i>
 </p>
 

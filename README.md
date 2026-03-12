@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Suujay Dhhoka 👋</h1>
+<h1 align="center">
+  Hi there, I'm Suujay Dhhoka
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <p align="center">
   <b>AI & Machine Learning Engineer | Edge Computing | MLOps | Cloud AI | Robotics | Rutgers ECE</b><br/>

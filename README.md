@@ -51,7 +51,7 @@ Master's ECE student at Rutgers University specializing in **AI, Machine Learnin
 - Developed model inference pipelines on AWS SageMaker → **40% reduction in manual processing**
 - Fine-tuned and integrated ML models for predictive analytics and creative automation
 
-**Teaching Assistant** · Rutgers University *(Jan 2024 – Present)*
+**Teaching Assistant** · Rutgers University *(Jan 2024 – May 2026)*
 - Mentored **550+ students** across Machine Vision, Cloud Computing, Computer Architecture, and DSP
 - Guided student projects using PyTorch, TensorFlow, OpenCV, AWS, and Azure
 

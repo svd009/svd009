@@ -66,6 +66,8 @@ Master's ECE student at Rutgers University specializing in **AI, Machine Learnin
 
 | Project | Description | Stack |
 |---|---|---|
+**FinGuard** | Agentic regulatory compliance intelligence system for banking and fintech | Claude API, Multi-Index RAG, MCP Tools, Extended Thinking, Agentic Workflows, Prompt Caching, Python |
+| **Quantum-Enhanced Continual Learning Fabric for Planetary Climate Adaptation** | Federated continual learning system for planetary climate forecasting; combines FedAvg, EWC, Physics-Informed Neural Networks, and Multi-Agent PPO across 3 geographic nodes (29 tests, CI/CD) | PyTorch, FedAvg, EWC, PINNs, Multi-Agent PPO |
 | **Vision-Guided Robotics (TEDSR)** | Force-position control robot with real-time vision guidance | ROS, PyTorch, YOLOv8, OpenCV |
 | **Multi-Agent RL — Warehouse Optimization** | MARL policies for warehouse task routing & throughput | RLlib, Gymnasium, PyTorch, PPO, GCP |
 | **Cloud-Native Fraud Detection Pipeline** | End-to-end fraud detection with SHAP explainability | XGBoost, LightGBM, MLflow, SageMaker |

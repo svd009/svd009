@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://suujay-dhhoka-m74oimb.gamma.site/">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/suujay-dhhoka-332018196/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://suujayd.netlify.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/suujay-dhhoka-jain-332018196/">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:suujaydhhoka@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   📍 New Jersey, USA
 </p>

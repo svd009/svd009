@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <b>AI & Machine Learning Engineer | Edge Computing | MLOps | Cloud AI | Robotics | Rutgers ECE</b><br/>
-  <i>Building scalable, impact-driven ML systems · AWS certified MLE associate · Open to opportunities</i>
+  <b>AI & Machine Learning Engineer | Agentic AI Systems | MLOps | Cloud AI | Edge Computing | Rutgers ECE</b><br/>
+  <i>Building scalable, impact-driven ML and agentic systems · AWS certified MLE associate · Open to opportunities</i>
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 About Me
 
-Master's ECE student at Rutgers University specializing in **AI, Machine Learning, and Cloud-Native Systems**. I enjoy building scalable, deployable products and collaborating across teams to turn complex ideas into reliable solutions.
+Master's ECE graduate from Rutgers University specializing in **AI, Machine Learning, and Cloud-Native Systems**. I enjoy building scalable, deployable products and collaborating across teams to turn complex ideas into reliable solutions.
 
-- 🔭 Currently working on a **Vision-Guided Robotics** project and **Multi-Agent RL for Warehouse Optimization**
-- 🌱 Deepening expertise in **MLOps**, **LLMs**, **RAG pipelines**, and **Federated Learning**
+- 🔭 Currently building **agentic AI systems for fintech** — regulatory compliance, transaction reconciliation, and equity research — alongside **Vision-Guided Robotics** and **Multi-Agent RL for Warehouse Optimization**
+- 🌱 Deepening expertise in **MLOps**, **LLM agents**, **RAG pipelines**, **MCP tools**, and **Federated Learning**
 - 🎓 Teaching Assistant for 550+ students across Machine Vision, Cloud Computing, and Computer Architecture
 - ☁️ Certified in **AWS ML Engineer** and **Google Cloud ML Engineer** (both Feb 2026)
 
@@ -32,6 +32,9 @@ Master's ECE student at Rutgers University specializing in **AI, Machine Learnin
 
 **Machine Learning & AI**
 `PyTorch` `TensorFlow` `scikit-learn` `LangChain` `RAG` `LLMs` `CNNs` `Reinforcement Learning` `Anomaly Detection` `Computer Vision` `OpenCV` `YOLOv8`
+
+**Agentic AI**
+`Claude API` `Model Context Protocol (MCP)` `Multi-Agent Orchestration` `Extended Thinking` `Prompt Caching`
 
 **Cloud & Infrastructure**
 `AWS SageMaker` `Azure` `GCP Vertex AI` `Docker` `Kubernetes` `Snowflake` `Apache Spark` `MLflow` `FastAPI`
@@ -66,7 +69,9 @@ Master's ECE student at Rutgers University specializing in **AI, Machine Learnin
 
 | Project | Description | Stack |
 |---|---|---|
-**FinGuard** | Agentic regulatory compliance intelligence system for banking and fintech | Claude API, Multi-Index RAG, MCP Tools, Extended Thinking, Agentic Workflows, Prompt Caching, Python |
+| **TradeDesk** | Multi-subagent equity research system running five parallel specialized subagents with an extended-thinking synthesis agent | Claude API, Python, Streamlit, Extended Thinking, Multi-Agent Orchestration |
+| **ReconcileAgent** | Autonomous transaction reconciliation system with a two-pass deterministic matching engine, durable audit trail, human approval gate, and tiered model routing | Claude API, Python, SQLite, Agentic Workflows |
+| **FinGuard** | Agentic regulatory compliance intelligence system for banking and fintech | Claude API, Multi-Index RAG, MCP Tools, Extended Thinking, Agentic Workflows, Prompt Caching, Python |
 | **Quantum-Enhanced Continual Learning Fabric for Planetary Climate Adaptation** | Federated continual learning system for planetary climate forecasting; combines FedAvg, EWC, Physics-Informed Neural Networks, and Multi-Agent PPO across 3 geographic nodes (29 tests, CI/CD) | PyTorch, FedAvg, EWC, PINNs, Multi-Agent PPO |
 | **Vision-Guided Robotics (TEDSR)** | Force-position control robot with real-time vision guidance | ROS, PyTorch, YOLOv8, OpenCV |
 | **Multi-Agent RL — Warehouse Optimization** | MARL policies for warehouse task routing & throughput | RLlib, Gymnasium, PyTorch, PPO, GCP |
@@ -78,16 +83,17 @@ Master's ECE student at Rutgers University specializing in **AI, Machine Learnin
 
 ## 🎓 Education
 
-**M.S. Electrical & Computer Engineering** — Machine Learning & AI · GPA 3.50
+**M.S. Electrical & Computer Engineering** — Machine Learning & AI
 Rutgers University *(Jan 2024 – May 2026)*
 
-**B.Tech Electronics & Telecommunication Engineering** · GPA 3.60
+**B.Tech Electronics & Telecommunication Engineering**
 Vishwakarma Institute of Information Technology *(Aug 2019 – May 2023)*
 
 ---
 
 ## 📜 Certifications
 
+- ☁️ **Anthropic Academy Certifications (AI Fluency, Claude API, Claude Code, MCP)** *(Jun 2026)*
 - ☁️ **AWS Certified Machine Learning Engineer – Associate** *(Feb 2026)*
 - ☁️ **Google Cloud Certification: Machine Learning Engineer** *(Feb 2026)*
 - 🤖 **Socially Cognizant Robotics Certificate** *(Dec 2025)*
@@ -95,6 +101,6 @@ Vishwakarma Institute of Information Technology *(Aug 2019 – May 2023)*
 ---
 
 <p align="center">
-  <i>Open to full-time ML Engineering, AI Research, and Cloud-Native roles starting May 2026.</i><br/>
+  <i>Open to full-time AI Engineering, ML Engineering, and Cloud-Native roles.</i><br/>
   <a href="mailto:suujaydhhoka@gmail.com">Let's connect →</a>
 </p>

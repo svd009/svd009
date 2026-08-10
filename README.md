@@ -72,12 +72,12 @@ Master's ECE graduate from Rutgers University specializing in **AI, Machine Lear
 | **TradeDesk** | Multi-subagent equity research system running five parallel specialized subagents with an extended-thinking synthesis agent | Claude API, Python, Streamlit, Extended Thinking, Multi-Agent Orchestration |
 | **ReconcileAgent** | Autonomous transaction reconciliation system with a two-pass deterministic matching engine, durable audit trail, human approval gate, and tiered model routing | Claude API, Python, SQLite, Agentic Workflows |
 | **FinGuard** | Agentic regulatory compliance intelligence system for banking and fintech | Claude API, Multi-Index RAG, MCP Tools, Extended Thinking, Agentic Workflows, Prompt Caching, Python |
+| **Job Success Predictor** | AWS-powered ML system scoring resume-job fit. | Python, FastAPI, AWS |
 | **Quantum-Enhanced Continual Learning Fabric for Planetary Climate Adaptation** | Federated continual learning system for planetary climate forecasting; combines FedAvg, EWC, Physics-Informed Neural Networks, and Multi-Agent PPO across 3 geographic nodes (29 tests, CI/CD) | PyTorch, FedAvg, EWC, PINNs, Multi-Agent PPO |
 | **Vision-Guided Robotics (TEDSR)** | Force-position control robot with real-time vision guidance | ROS, PyTorch, YOLOv8, OpenCV |
-| **Multi-Agent RL — Warehouse Optimization** | MARL policies for warehouse task routing & throughput | RLlib, Gymnasium, PyTorch, PPO, GCP |
+| **Multi-Agent RL Warehouse Optimization** | MARL policies for warehouse task routing & throughput | RLlib, Gymnasium, PyTorch, PPO, GCP |
 | **Cloud-Native Fraud Detection Pipeline** | End-to-end fraud detection with SHAP explainability | XGBoost, LightGBM, MLflow, SageMaker |
 | **Domain-Adaptive Sentiment Classifier** | RAG-augmented NLP model with full MLOps deployment | Hugging Face, FastAPI, Docker, AWS S3 |
-| **XAI for Safety-Critical Systems** *(planned)* | Explainability framework with counterfactual reasoning | LIME, SHAP, GNNExplainer, FastAPI |
 
 ---
 

@@ -70,6 +70,7 @@ Master's ECE graduate from Rutgers University specializing in **AI, Machine Lear
 | Project | Description | Stack |
 |---|---|---|
 | **TradeDesk** | Multi-subagent equity research system running five parallel specialized subagents with an extended-thinking synthesis agent | Claude API, Python, Streamlit, Extended Thinking, Multi-Agent Orchestration |
+| **CareBridge** | Secure care-coordination platform built with React, Express, PostgreSQL, and Docker | Claude, JavaScript, PostgreSQL, PHI & HIPAA, React, Node.js |
 | **ReconcileAgent** | Autonomous transaction reconciliation system with a two-pass deterministic matching engine, durable audit trail, human approval gate, and tiered model routing | Claude API, Python, SQLite, Agentic Workflows |
 | **FinGuard** | Agentic regulatory compliance intelligence system for banking and fintech | Claude API, Multi-Index RAG, MCP Tools, Extended Thinking, Agentic Workflows, Prompt Caching, Python |
 | **Job Success Predictor** | AWS-powered ML system scoring resume-job fit. | Python, FastAPI, AWS |

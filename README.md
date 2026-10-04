@@ -84,11 +84,11 @@ Master's ECE graduate from Rutgers University specializing in **AI, Machine Lear
 
 ## 🎓 Education
 
-**M.S. Electrical & Computer Engineering** — Machine Learning & AI
-Rutgers University *(Jan 2024 – May 2026)*
+**M.S. Electrical & Computer Engineering (AI/ML)** --
+Rutgers University
 
-**B.Tech Electronics & Telecommunication Engineering**
-Vishwakarma Institute of Information Technology *(Aug 2019 – May 2023)*
+**B.Tech Electronics & Telecommunication Engineering** --
+Vishwakarma Institute of Information Technology
 
 ---
 

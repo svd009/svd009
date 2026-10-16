@@ -85,7 +85,7 @@ Master's ECE graduate from Rutgers University specializing in **AI, Machine Lear
 ## 🎓 Education
 
 **M.S. Electrical & Computer Engineering (AI/ML)** --
-Rutgers University (USA) 
+Rutgers, The State University of New Jersey - NB (USA) 
 
 **B.Tech Electronics & Telecommunication Engineering** --
 Vishwakarma Institute of Information Technology (India)
